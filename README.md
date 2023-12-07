@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheAnonymousXI
-- 👀 I’m interested in hacking and exploitaton.
-- 🌱 I’m currently learning how to teach students.
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me leave a issue or bug on this repo.
+- 👀 I’m interested in programming and cybersecurity.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m not currently looking to collaborate.
+- 📫 To reach me, leave a issue on this repo.
 
 <!---
 TheAnonymousXAlt/TheAnonymousXAlt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
